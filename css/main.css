@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,500;1,700&family=Poetsen+One&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poetsen one', sans-serif;
+}
+
+body {
+    background-color: #343a40;
+}
+
+main {
+    background-color: #343a40;
+}
+.nav-link {
+    color: rgb(6, 252, 6) !important;
+    font-family: 'Poetsen one', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+
+.btn {
+    color: rgb(6, 252, 6) !important;
+    font-family: 'Poetsen one', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+
+.dropdown-item {
+    color: rgb(6, 252, 6) !important;
+    font-family: 'Poetsen one', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+    background-color: black !important;
+}
+.navbar-brand {
+    color: rgb(6, 252, 6) !important;
+    font-family: 'Poetsen one' , 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+/* Aca empezamos a dar estilos al carrito de compras de la tienda */
+
+.boton-carrito {
+    text-decoration: none;
+    color: rgb(6, 252, 6) !important;
+    font-family: 'Poetsen one' , 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif !important;
+}
+
+
+.wrapper-carrito {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    background-color: #343a40;
+}
+
+.titulo-principal {
+    color: rgb(6, 252, 6);
+    margin-bottom: 2rem;    
+}
+
+.carrito-vacio {
+    color:rgb(2, 106, 2)
+}
+
+/* Aca estilos de la tienda e imagenes */
+
+.contenedor-productos-proteinas {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
+}
+
+.producto-imagen {
+    width: 240px;
+    height: 320px;
+    border-radius: 0.5rem;
+}
+
+.producto-detalles {
+    background-color: #343a40;
+    color: rgb(2, 106, 2);
+    padding: 0.5rem;
+    border-radius: 1rem;
+    position: relative;
+    align-items: center;
+}
+
+.producto-titulo {
+    font-size: 1rem;
+}
+
+.producto-agregar {
+    background-color: #343a40;
+    border-radius: 0.5rem;
+    font-size: 1rem;
+    border: 2px solid #343a40;
+    cursor: pointer;
+    transition: background-color .2s, color .2s;
+}
+
+.producto-agregar:hover {
+    background-color: rgb(6, 6, 6);
+    color: rgb(6, 252, 6);
+}
