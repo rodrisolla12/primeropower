@@ -17,3 +17,13 @@ function pedirNombre(){
 }
 
 pedirNombre();
+
+//toogle
+let resultado;
+function sumar(p1, p2) {
+    resultado = p1 + p2;
+}
+
+sumar(10, 5);
+console.log(resultado);
+

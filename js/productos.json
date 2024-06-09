@@ -1,0 +1,142 @@
+[
+    {
+    "id": "prote-01",
+    "titulo": "Iso Whey Ripped SN",
+    "imagen": "./imagenes/Proteinas/iso whey ripped.png",
+    "categoria": {
+        "nombre": "Proteinas",
+        "id": "proteinas"
+    },
+    "precio": 1000
+},
+{
+    "id": "prote-02",
+    "titulo": "Nitro Whey Protein",
+    "imagen": "./imagenes/Proteinas/nitro whey.png",
+    "categoria": {
+        "nombre": "Proteinas",
+        "id": "proteinas"
+    },
+    "precio": 1000
+},
+{
+    "id": "prote-03",
+    "titulo": "Platinum Whey",
+    "imagen": "./imagenes/Proteinas/platinum whey.png",
+    "categoria": {
+        "nombre": "Proteinas",
+        "id": "proteinas"
+    },
+    "precio": 1000
+},
+{
+    "id": "prote-04",
+    "titulo": "Platinum Whey Isolate",
+    "imagen": "./imagenes/Proteinas/platinum whey.png",
+    "categoria": {
+        "nombre": "Proteinas",
+        "id": "proteinas"
+    },
+    "precio": 1000
+},
+{
+    "id": "creatina-01",
+    "titulo": "Creatina Star Nutrition 150gr",
+    "imagen": "./imagenes/creatinas/creapure 150.png",
+    "categoria": {
+        "nombre": "Creatinas",
+        "id": "creatina"
+    },
+    "precio": 1000
+},
+{
+    "id": "creatina-02",
+    "titulo": "Creatina Star Nutrition 300gr",
+    "imagen": "./imagenes/creatinas/creatina sn 300.jpeg",
+    "categoria": {
+        "nombre": "Creatinas",
+        "id": "creatina"
+    },
+    "precio": 1000
+},
+{
+    "id": "creatina-03",
+    "titulo": "Creatina Ena s/sabor 300 gr",
+    "imagen": "./imagenes/creatinas/Crea ena ss.jpeg",
+    "categoria": {
+        "nombre": "Creatinas",
+        "id": "creatinas"
+    },
+    "precio": 1000
+},
+{
+    "id": "creatina-04",
+    "titulo": "Creatina Ultra Tech 300gr",
+    "imagen": "./imagenes/creatinas/creatina ut 300.jpeg",
+    "categoria": {
+        "nombre": "Creatinas",
+        "id": "creatinas"
+    },
+    "precio": 1000
+},
+{
+    "id": "creatina-05",
+    "titulo": "Creatina Ena s/frutilla 300gr",
+    "imagen": "./imagenes/creatinas/Crea ena SF.jpeg",
+    "categoria": {
+        "nombre": "Creatinas",
+        "id": "creatinas"
+    },
+    "precio": 1000
+},
+{
+    "id": "prentreno-01",
+    "titulo": "Pre-entreno Pump 3d Ripped",
+    "imagen:": "./imagenes/otros/Pump 3d ripped.jpeg",
+    "categoria": {
+    "nombre": "Pre entreno",
+    "id": "Pre entreno"
+},
+    "precio": 1000
+},
+{
+    "id": "prentreno-02",
+    "titulo": "Pre-entreno Pump V8",
+    "imagen:": "./imagenes/otros/Pre entreno star.jpeg",
+    "categoria": {
+        "nombre": "Pre entreno",
+        "id": "Pre entreno"
+},
+    "precio": 1000
+},
+{
+    "id": "prentreno-03",
+    "titulo": "Iron Bar",
+    "imagen": "./imagenes/otros/Iron bar.jpeg",
+    "categoria": {
+        "nombre": "Pre entreno",
+        "id": "Pre entreno"
+},
+    "precio": 1000
+},
+{
+    "id": "Prentreno-04",
+    "titulo": "Amino EEAs",
+    "imagen": "./imagenes/otros/EEA.jpeg",
+    "categoria": {
+        "nombre": "Aminoacidos",
+        "id": "Aminoacios"
+},
+    "precio": 1000
+},
+{
+    "id": "Amino-02",
+    "titulo": "Mtor BCAA",
+    "imagen": "./imagenes/otros/Motor BCAA.jpeg",
+    "categoria": {
+    "nombre": "Aminoacidos",
+    "id": "Aminoacidos"
+},
+    "precio": 1000
+}
+]
